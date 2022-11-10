@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+}
+
+#navbar {
+    width: 20%;
+    float: left;
+    padding-top: 5px;
+}
+
+#main-doc {
+    width: auto;
+    margin-left: 20%;
+}
