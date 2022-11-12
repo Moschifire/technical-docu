@@ -13,6 +13,7 @@ body {
 
 #navbar {
     float: left;
+    position: fixed;
 }
 
 header {
